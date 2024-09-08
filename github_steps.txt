@@ -1,0 +1,4 @@
+1. Check all files are saved (save all)
+2. git add .
+3. git commit -m "message"
+4. git push
